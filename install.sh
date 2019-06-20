@@ -1,11 +1,11 @@
 #!/bin/bash
 
-# Title: Snatch
+# Title: Snatch wifi pentesting
 # Version: 1.0
 # Contact: hwac121@protonmail.com
 
 # URL: http://www.majikcat.com
-# GitHub: 
+# GitHub: https://github.com/hwac121/Snatch.git
 
 #-----------------------------------------------------------------
 
@@ -15,7 +15,7 @@
 # explicit permission as this would be illegal. This software was
 # designed strictly for pentesting and educational purposes only.
 # The author is not responsible for any abuse of this program by the
-end-user.
+# end-user.
 
 #=================================================================
 #                         CHECK FOR ROOT

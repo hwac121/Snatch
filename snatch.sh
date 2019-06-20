@@ -5,11 +5,17 @@
 # Contact: hwac121@protonmail.com
 
 # URL: http://www.majikcat.com
-# GitHub: 
+# GitHub: https://github.com/hwac121/Snatch.git
 
-# DESCRIPTION
-# Just another WiFi script automation to snatch a handshake from a
-# network AP somewhere and their client.
+#-----------------------------------------------------------------
+
+# Description:
+# Snatch is used to find, choose, and snatch a handshake from a network
+# AP and it's connecting client. Do not use on a network without
+# explicit permission as this would be illegal. This software was
+# designed strictly for pentesting and educational purposes only.
+# The author is not responsible for any abuse of this program by the
+# end-user.
 
 #=======================================================================
 #                          FUNCTIONS
