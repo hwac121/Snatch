@@ -95,4 +95,4 @@ clear
 echo -e "Installation complete!"
 sleep 2
 clear
-./snatch
+./snatch.sh
